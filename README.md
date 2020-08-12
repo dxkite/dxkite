@@ -1,6 +1,6 @@
 ## Hi, i’m dxkite 👋
 
-> 如果你能重生，你现在的知识能给以前的你带来什么改变？
+> 你现在的知识能给以前的你带来什么改变？
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxkite&hide=HTML,css,javascript&layout=compact)
 
