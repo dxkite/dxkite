@@ -2,7 +2,7 @@
 
 > 你现在的知识能给以前的你带来什么改变？
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxkite&hide=HTML,css,javascript&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxkite&hide=HTML,css,javascript&langs_count=7&layout=compact)
 
 - 🌏 website: https://dxkite.cn
 - 📫 email: [dxkite@qq.com](mailto:dxkite@qq.com)
